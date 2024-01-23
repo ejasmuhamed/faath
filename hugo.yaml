@@ -110,9 +110,9 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Solution Architect & Technology Business Consultant | Founder & Product Head, Lightspeed - l8s.io 🪐 | Founder & CEO, Bytsolv - byt.so 🚀"
+  description: "sinful servant | muslim minimalist | healthy content inside"
   author: Fathima Nasreen
-  keywords: ["Fathima Nasreen", "Solution Architect", "Technology Business Consultatnt", "Tech Kochi", "Bytsolv Founder", "Lightspeed Founder", "byt.so", "l8s.io", "Bluprint", "Tech Consultant Kochi", "Ejas", "Bytsolv CEO", "Lightspeed Product Head"]
+  keywords: ["Fathima Nasreen", ]
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
