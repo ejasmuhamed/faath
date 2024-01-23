@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quit-music on Fathima Nasreen</title>
+    <link>/tags/quit-music/</link>
+    <description>Recent content in quit-music on Fathima Nasreen</description>
+    <image>
+      <title>Fathima Nasreen</title>
+      <url>/images/fathima-nasreen-cover.jpg</url>
+      <link>/images/fathima-nasreen-cover.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/quit-music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enough is enough, time to quit!</title>
+      <link>/posts/tips-to-quit-music/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/tips-to-quit-music/</guid>
+      <description>Practical tips to avoid/quit music in life.</description>
+    </item>
+  </channel>
+</rss>

@@ -3,7 +3,7 @@ author: "Fathima Nasreen"
 title: "Enough is enough, time to quit!"
 date: "2024-01-23"
 description: "Practical tips to avoid/quit music in life."
-tags: ["learning", "tips"]
+tags: ["learning", "tips", "quit-music", "practicing-muslim", ]
 categories: ["learning"]
 series: ["Quick Reads"]
 # aliases: ["migrate-from-jekyl"]
