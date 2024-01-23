@@ -6,38 +6,17 @@
     <description>Recent content in Categories on Fathima Nasreen</description>
     <image>
       <title>Fathima Nasreen</title>
-      <url>/images/ejas-muhammed-cover.png</url>
-      <link>/images/ejas-muhammed-cover.png</link>
+      <url>/images/fathima-nasreen-cover.jpg</url>
+      <link>/images/fathima-nasreen-cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>learnings</title>
-      <link>/categories/learnings/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/categories/learnings/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>mistakes</title>
-      <link>/categories/mistakes/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/categories/mistakes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>personal</title>
-      <link>/categories/personal/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/categories/personal/</guid>
-      <description></description>
-    </item>
     <item>
       <title>thoughts</title>
       <link>/categories/thoughts/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/categories/thoughts/</guid>
       <description></description>
     </item>

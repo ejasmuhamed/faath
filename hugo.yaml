@@ -129,7 +129,7 @@ params:
   ShowPageNums: true
   ShowToc: false
   comments: false
-  images: ["images/ejas-muhammed-cover.png"]
+  images: ["images/fathima-nasreen-cover.jpg"]
 
   profileMode:
     enabled: false
