@@ -146,26 +146,17 @@ params:
 
   homeInfoParams:
     Title: "السلام عليكم ورحمة الله وبركاته"
-    Name: "[👨🏽‍🚀 ](/posts/the-astronaut-analogy/) **Fathima Nasreen**"
-    Content: >
-      👋 Hola
+    Name: "**Fathima Nasreen**"
+    Content: > 
+        -   أهل القرآن والسنة
 
-      
-      - I consult businesses and individuals who want to implement tech, and I work with different companies to build it.
-
-      - I am on a mission to ship a meaningful tool for solution architects and pms to visualize tech solutions and build them faster!
-
-      - As part of this mission I am learning things by talking to people who are doing meaningful stuff, listening to pieces of advice and suggestions that matter; and writing all these here believing that it can help me gain more clarity on what I am doing and it may help others who are on the same ride.
-
-      
-
+        -   Just pray on time & learn about Tawheed
+        
+        -   sinful servant | muslim minimalist | healthy content inside
   socialIcons:
-    # - name: github
-    #   title: View Source on Github
-      # url: "https://github.com/adityatelange/hugo-PaperMod"
     - name: Instagram
-      title: Connect me on LinkedIn
-      url: "https://instagram.com/"
+      title: Instagram
+      url: "https://www.instagram.com/pretty.placid/"
     # - name: Youtube
     #   title: Watch my videos on YouTube
     #   url: "https://www.youtube.com/channel/UC2zSbe7Rc30-m0k0gHJc1Zg"
