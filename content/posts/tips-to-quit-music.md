@@ -1,8 +1,8 @@
 ---
 author: "Fathima Nasreen"
-title: "Tips to quit Music!"
-date: "2024-01-18"
-description: "Tips to stay away from Haraam (Music) and focus on"
+title: "Enough is enough, time to quit!"
+date: "2024-01-23"
+description: "Practical tips to avoid/quit music in life."
 tags: ["learning", "tips"]
 categories: ["learning"]
 series: ["Quick Reads"]
