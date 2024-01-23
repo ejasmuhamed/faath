@@ -151,7 +151,7 @@ params:
         -   أهل القرآن والسنة
 
         -   Just pray on time & learn about Tawheed
-        
+
         -   sinful servant | muslim minimalist | healthy content inside
   socialIcons:
     - name: Instagram
@@ -178,9 +178,9 @@ params:
   # icon: icon.png
   # iconHeight: 35
 
-  analytics:
-      google:
-          SiteVerificationTag: "G-0FZ4VC3YWC"
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "G-0FZ4VC3YWC"
 
   assets:
     disableHLJS: true
