@@ -8,7 +8,7 @@ categories: ["learning"]
 series: ["Quick Reads"]
 # aliases: ["migrate-from-jekyl"]
 cover:
-  image: images/stop-music.png
+  image: images/stop-music.jpg
   # caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
   hiddenInList: false
 ShowToc: false
